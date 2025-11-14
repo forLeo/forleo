@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in HTML, CSS, JavaScript/Typescript and Java
-- 📫 How to reach me: Use the mail me link on my website.
 
 check out my new website https://forleo.github.io
 
