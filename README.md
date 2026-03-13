@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🇪🇺 Based in Europe  
-- 🎓 Studying **Computer Science**  
+- 🎓 Studying **Applied Computer Science**  
 - 💼 Working while studying  
 - 🧪 I like building tools and experimenting with projects  
 - 🚀 Always learning new technologies
